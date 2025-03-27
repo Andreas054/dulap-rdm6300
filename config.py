@@ -1,4 +1,4 @@
-timeDoorOpen = 10
+timeDoorOpen = 5
 
 pinBuzzer = 17
 
